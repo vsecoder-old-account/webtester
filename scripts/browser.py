@@ -9,7 +9,7 @@ def browser(url, width=1920, height=1080, script='', fullpage=False):
     d['loggingPrefs'] = { 'browser':'ALL' }
     # options
     options = webdriver.ChromeOptions()
-    #options.add_argument('--headless')
+    options.add_argument('--headless')
     #options.add_argument('--no-sandbox')
     options.add_argument('--ignore-certificate-errors')
     if fullpage:
