@@ -1,0 +1,135 @@
+16-09-2021 18:40: - BOT:[INFO] - Bot starting
+16-09-2021 18:40: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 18:41: - BOT:[INFO] - Bot stoping
+16-09-2021 18:41: - BOT:[INFO] - Bot starting
+16-09-2021 18:41: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 18:46: - BOT:[INFO] - Bot stoping
+16-09-2021 18:46: - BOT:[INFO] - Bot starting
+16-09-2021 18:46: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 18:48: - BOT:[INFO] - Bot stoping
+16-09-2021 18:48: - BOT:[INFO] - Bot starting
+16-09-2021 18:48: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 18:50: - BOT:[INFO] - Bot stoping
+16-09-2021 18:50: - BOT:[INFO] - Bot starting
+16-09-2021 18:50: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 18:51: - BOT:[INFO] - Bot stoping
+16-09-2021 18:51: - BOT:[INFO] - Bot starting
+16-09-2021 18:51: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 18:51: - BOT:[INFO] - Bot stoping
+16-09-2021 18:51: - BOT:[INFO] - Bot starting
+16-09-2021 18:51: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 18:52: - BOT:[INFO] - Bot stoping
+16-09-2021 18:52: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 18:52: - BOT:[INFO] - Bot starting
+16-09-2021 18:53: - BOT:[INFO] - Bot stoping
+16-09-2021 18:53: - BOT:[INFO] - Bot starting
+16-09-2021 18:53: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 18:54: - BOT:[INFO] - Bot stoping
+16-09-2021 18:54: - BOT:[INFO] - Bot starting
+16-09-2021 18:54: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 18:55: - BOT:[INFO] - Bot stoping
+16-09-2021 18:55: - BOT:[INFO] - Bot starting
+16-09-2021 18:55: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:00: - BOT:[INFO] - Bot stoping
+16-09-2021 19:01: - BOT:[INFO] - Bot starting
+16-09-2021 19:01: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:01: - BOT:[INFO] - Bot stoping
+16-09-2021 19:01: - BOT:[INFO] - Bot starting
+16-09-2021 19:01: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:04: - BOT:[INFO] - Bot stoping
+16-09-2021 19:05: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:05: - BOT:[INFO] - Bot starting
+16-09-2021 19:06: - BOT:[INFO] - Bot stoping
+16-09-2021 19:06: - BOT:[INFO] - Bot starting
+16-09-2021 19:06: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:07: - BOT:[INFO] - Bot stoping
+16-09-2021 19:07: - BOT:[INFO] - Bot starting
+16-09-2021 19:07: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:26: - BOT:[INFO] - Bot starting
+16-09-2021 19:26: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:28: - BOT:[INFO] - Bot stoping
+16-09-2021 19:28: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:28: - BOT:[INFO] - Bot starting
+16-09-2021 19:46: - BOT:[INFO] - Bot stoping
+16-09-2021 19:47: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:47: - BOT:[INFO] - Bot starting
+16-09-2021 19:51: - BOT:[INFO] - Bot stoping
+16-09-2021 19:52: - BOT:[INFO] - Bot starting
+16-09-2021 19:52: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:53: - BOT:[INFO] - Bot stoping
+16-09-2021 19:54: - BOT:[INFO] - Bot starting
+16-09-2021 19:54: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:54: - BOT:[INFO] - Bot stoping
+16-09-2021 19:54: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:54: - BOT:[INFO] - Bot starting
+16-09-2021 19:56: - BOT:[INFO] - Bot stoping
+16-09-2021 19:56: - BOT:[INFO] - Bot starting
+16-09-2021 19:56: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:57: - BOT:[INFO] - Bot stoping
+16-09-2021 19:57: - BOT:[INFO] - Bot starting
+16-09-2021 19:57: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:59: - BOT:[INFO] - Bot stoping
+16-09-2021 19:59: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 19:59: - BOT:[INFO] - Bot starting
+16-09-2021 20:00: - BOT:[INFO] - Bot stoping
+16-09-2021 20:00: - BOT:[INFO] - Bot starting
+16-09-2021 20:00: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:01: - BOT:[INFO] - Bot stoping
+16-09-2021 20:01: - BOT:[INFO] - Bot starting
+16-09-2021 20:01: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:03: - BOT:[INFO] - Bot stoping
+16-09-2021 20:03: - BOT:[INFO] - Bot starting
+16-09-2021 20:03: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:04: - BOT:[INFO] - Bot stoping
+16-09-2021 20:04: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:04: - BOT:[INFO] - Bot starting
+16-09-2021 20:08: - BOT:[INFO] - Bot stoping
+16-09-2021 20:08: - BOT:[INFO] - Bot starting
+16-09-2021 20:08: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:13: - BOT:[INFO] - Bot stoping
+16-09-2021 20:13: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:13: - BOT:[INFO] - Bot starting
+16-09-2021 20:15: - BOT:[INFO] - Bot stoping
+16-09-2021 20:15: - BOT:[INFO] - Bot starting
+16-09-2021 20:15: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:16: - BOT:[INFO] - Bot stoping
+16-09-2021 20:16: - BOT:[INFO] - Bot starting
+16-09-2021 20:16: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:26: - WEB:[INFO] - Page: "/" | 192.168.99.11
+16-09-2021 20:31: - BOT:[INFO] - Bot stoping
+16-09-2021 20:32: - BOT:[INFO] - Bot starting
+16-09-2021 20:32: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:32: - BOT:[INFO] - Bot stoping
+16-09-2021 20:32: - BOT:[INFO] - Bot starting
+16-09-2021 20:32: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:33: - BOT:[INFO] - Bot stoping
+16-09-2021 20:33: - BOT:[INFO] - Bot starting
+16-09-2021 20:33: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:34: - BOT:[INFO] - Bot stoping
+16-09-2021 20:34: - BOT:[INFO] - Bot starting
+16-09-2021 20:34: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:35: - BOT:[INFO] - Bot stoping
+16-09-2021 20:35: - BOT:[INFO] - Bot starting
+16-09-2021 20:35: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:39: - BOT:[INFO] - Bot stoping
+16-09-2021 20:39: - BOT:[INFO] - Bot starting
+16-09-2021 20:39: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:46: - BOT:[INFO] - Bot stoping
+16-09-2021 20:46: - BOT:[INFO] - Bot starting
+16-09-2021 20:46: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:50: - BOT:[INFO] - Bot stoping
+16-09-2021 20:50: - BOT:[INFO] - Bot starting
+16-09-2021 20:50: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:51: - BOT:[INFO] - Bot stoping
+16-09-2021 20:53: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:53: - BOT:[INFO] - Bot starting
+16-09-2021 20:56: - BOT:[INFO] - Bot stoping
+16-09-2021 20:56: - BOT:[INFO] - Bot starting
+16-09-2021 20:56: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 20:59: - BOT:[INFO] - Bot stoping
+16-09-2021 21:00: - BOT:[INFO] - Bot starting
+16-09-2021 21:00: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 21:00: - BOT:[INFO] - Bot stoping
+16-09-2021 21:01: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+16-09-2021 21:01: - BOT:[INFO] - Bot starting
+16-09-2021 21:01: - BOT:[INFO] - Bot stoping

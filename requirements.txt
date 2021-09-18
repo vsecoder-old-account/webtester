@@ -1,0 +1,8 @@
+flask
+aiohttp
+aiogram
+sqlalchemy
+requests
+asyncio
+selenium
+

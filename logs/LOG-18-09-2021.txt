@@ -1,0 +1,9 @@
+18-09-2021 12:45: - BOT:[INFO] - Bot starting
+18-09-2021 12:47: - BOT:[INFO] - Bot stoping
+18-09-2021 12:47: - BOT:[INFO] - Bot starting
+18-09-2021 12:49: - BOT:[INFO] - Bot stoping
+18-09-2021 12:49: - BOT:[INFO] - Bot starting
+18-09-2021 12:50: - BOT:[INFO] - Bot stoping
+18-09-2021 12:50: - BOT:[INFO] - Bot starting
+18-09-2021 12:51: - BOT:[INFO] - Bot stoping
+18-09-2021 12:51: - BOT:[INFO] - Bot starting

@@ -1,0 +1,84 @@
+07-09-2021 14:38: - BOT:[INFO] - Bot starting
+07-09-2021 14:38: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+07-09-2021 14:38: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:38: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:39: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:39: - WEB:[INFO] - Admin login: 192.168.99.11
+07-09-2021 14:39: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:39: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:41: - BOT:[INFO] - Bot stoping
+07-09-2021 14:41: - BOT:[INFO] - Bot starting
+07-09-2021 14:41: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+07-09-2021 14:41: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:42: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:42: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:42: - WEB:[INFO] - Admin login: 192.168.99.11
+07-09-2021 14:42: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:42: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:42: - BOT:[INFO] - Bot stoping
+07-09-2021 14:42: - BOT:[INFO] - Bot starting
+07-09-2021 14:42: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+07-09-2021 14:42: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:42: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:43: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:43: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:43: - WEB:[INFO] - Admin login: 192.168.99.11
+07-09-2021 14:43: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:43: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:52: - BOT:[INFO] - Bot stoping
+07-09-2021 14:52: - BOT:[INFO] - Bot starting
+07-09-2021 14:52: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+07-09-2021 14:52: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:52: - BOT:[INFO] - Bot stoping
+07-09-2021 14:55: - BOT:[INFO] - Bot starting
+07-09-2021 14:55: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+07-09-2021 14:55: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:55: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:55: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:55: - WEB:[INFO] - Admin login: 192.168.99.11
+07-09-2021 14:55: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:55: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:55: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:56: - BOT:[INFO] - Bot stoping
+07-09-2021 14:56: - BOT:[INFO] - Bot starting
+07-09-2021 14:56: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+07-09-2021 14:56: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:56: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:56: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:56: - WEB:[INFO] - Admin login: 192.168.99.11
+07-09-2021 14:56: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:56: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:56: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:56: - WEB:[ERROR] - 500
+07-09-2021 14:57: - BOT:[INFO] - Bot stoping
+07-09-2021 14:57: - BOT:[INFO] - Bot starting
+07-09-2021 14:57: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+07-09-2021 14:57: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:57: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:57: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:57: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:57: - WEB:[ERROR] - 500
+07-09-2021 14:58: - BOT:[INFO] - Bot stoping
+07-09-2021 14:58: - BOT:[INFO] - Bot starting
+07-09-2021 14:58: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+07-09-2021 14:58: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:58: - WEB:[INFO] - Admin login: 192.168.99.11
+07-09-2021 14:58: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:58: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:58: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:58: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:58: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:58: - BOT:[INFO] - Bot stoping
+07-09-2021 14:58: - BOT:[INFO] - Bot starting
+07-09-2021 14:58: - WEB:[INFO] - Web starting in 0.0.0.0:5000
+07-09-2021 14:58: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:58: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:59: - WEB:[INFO] - Page: "/login" | 192.168.99.11
+07-09-2021 14:59: - WEB:[INFO] - Admin login: 192.168.99.11
+07-09-2021 14:59: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:59: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:59: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:59: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 14:59: - WEB:[INFO] - Page: "/" | 192.168.99.11
+07-09-2021 14:59: - WEB:[INFO] - Page: "/settings" | 192.168.99.11
+07-09-2021 15:02: - WEB:[INFO] - Page: "/" | 192.168.99.11
